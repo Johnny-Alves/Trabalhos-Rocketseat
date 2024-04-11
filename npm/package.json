@@ -1,0 +1,14 @@
+{
+  "name": "frist-npm",
+  "version": "1.0.0",
+  "description": "aprendendo npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^3.2.0"
+  }
+}
